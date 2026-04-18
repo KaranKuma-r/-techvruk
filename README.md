@@ -1,6 +1,6 @@
 ﻿# techvruk
 
-# Diagram Dashboard
+## Diagram Dashboard
 
 This project demonstrates a modular React architecture with reusable components and clean state management using React hooks.
 

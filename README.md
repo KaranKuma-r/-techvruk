@@ -9,7 +9,7 @@ The application allows zooming into the diagram and highlights components when t
 
 This project was built as a frontend assessment to demonstrate React fundamentals, UI design, and component-based architecture.
 
----
+--
 
 # Features
 

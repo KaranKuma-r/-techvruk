@@ -7,7 +7,7 @@ This project demonstrates a modular React architecture with reusable components 
 A simple React dashboard where users can upload a diagram and view detected components.  
 The application allows zooming into the diagram and highlights components when they are selected from the sidebar.
 
-This project was built as a frontend assessment to demonstrate React fundamentals, UI design, and component-based architecture.
+This project was built as a frontend assessment to demonstrate React fundamentals UI design, and component-based architecture.
 
 --
 
